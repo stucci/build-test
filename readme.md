@@ -45,6 +45,7 @@ bazel
 bazel build //main:hello-bazel
 .\bazel-bin\main\hello-bazel.exe
 ```
+ref. [Build Tutorial - C++ - Bazel](https://docs.bazel.build/versions/master/tutorial/cpp.html)
 
 gdb
 ```shell
